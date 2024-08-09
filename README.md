@@ -1,4 +1,4 @@
-# codtech-SQLtask2
+
 Name:Divyanshi Mishra 
 Company:Codtech IT solution
 Id:CT08DS5807
